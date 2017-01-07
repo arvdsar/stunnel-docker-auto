@@ -22,3 +22,5 @@ On the Synology you have to create a new bridged network so all the containers w
 
 Use the stunnel.conf as an example and expose the proper network ports you need for INCOMMING requests.
 
+I suggest using Let's Encrypt certificates. How to generate those using docker container:
+https://www.brandpending.com/2016/09/06/using-the-lets-encrypt-docker-image-to-create-and-renew-an-ssl-certificate-for-an-nginx-web-site/

@@ -1,0 +1,1 @@
+# stunnel-docker-auto
